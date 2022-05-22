@@ -9,6 +9,9 @@ clone the project from github with this command
 ```bash
 git clone https://github.com/Kondwani7/file-downloader.git
 ```
+Open your preferred code editor.
+
+Then, if using vscode, run your live server command and you will see the website running on your localhost
 ### Web Link
 [Link]() to the live version of the website
 ### Disclaimer
